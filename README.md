@@ -2,17 +2,18 @@
 "Sapphire Steps" wallpapers for the KDE Plasma 6 desktop environment, a visual testament to the evolution of the Plasma desktop.
 
 ## Desktop
-### Light
-[image](Desktop_Light.png)
+### Dark
+![image](Desktop_Dark.png)
 
 ## Desktop
+### Light
+![image](Desktop_Light.png)
+
+
+## Mobile
 ### Dark
-[image](Desktop_Dark.png)
+![image](Mobile_Dark.png)
 
 ## Mobile
 ### Light
-[image](Mobile_Light.png)
-
-## Mobile
-### Dark
-[image](Mobile_Dark.png)
+![image](Mobile_Light.png)
