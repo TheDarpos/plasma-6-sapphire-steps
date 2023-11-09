@@ -5,7 +5,6 @@
 ### Dark
 ![image](Desktop_Dark.png)
 
-## Desktop
 ### Light
 ![image](Desktop_Light.png)
 
@@ -14,6 +13,5 @@
 ### Dark
 ![image](Mobile_Dark.png)
 
-## Mobile
 ### Light
 ![image](Mobile_Light.png)
